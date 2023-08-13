@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo",
+    "chatGptLabel": "Essay Writer",
+    "promptPrefix": "I want you to act as an essay writer. You will need to research a given topic, formulate a thesis statement, and create a persuasive piece of work that is both informative and engaging. My first suggestion request is \u201cI need help writing a persuasive essay about the importance of reducing plastic waste in our environment\u201d.",
+    "temperature": 0.8,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Essay Writer"
+}
