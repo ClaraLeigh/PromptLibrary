@@ -1,34 +1,34 @@
 # Prompt Library for LibreChat
 
-This repository contains a collection of GPT prompts that can be used in LibreChat, an open-source alternative to ChatGPT. It is recommended to include this library in LibreChat using Git Submodules, this allows you to pull in changes and store your own prompts in a similar method. 
+This repository contains a collection of GPT prompts that can be used in LibreChat, an open-source alternative to ChatGPT. It is recommended to include this library in LibreChat using Git, this allows you to pull in changes and store your own prompts in a similar method. 
 
 Please be aware that prompts in this library are not limited to a single source and include contributions from various projects. See the [References](#references) area for a list of where these prompts originate. Please be aware they may have been modified or improved upon based on experience.
 
 ## Installation
 
-To include this prompts library in the external project "LibreChat" using Git Submodules, follow these steps:
+To include this prompts library in the external project "LibreChat" using Git, follow these steps:
 
 1. Navigate to the root folder of your "LibreChat" project.
-2. Add this repository as a submodule by running the following command:
+2. Add this repository as a subdirectory by running the following command:
 
    ```shell
-   git submodule add git@github.com:ClaraLeigh/PromptLibrary.git prompts/General-Library
+   git clone git@github.com:ClaraLeigh/PromptLibrary.git prompts/General-Library
    ```
 
    This will clone the prompts library repository under the `/prompts/General-Library` folder of your "LibreChat" project.
+
+Alternatively you can always download a zip of the repository and extract it into the `/prompts/General-Library` folder of your "LibreChat" project.
 
 ## Updating
 
 To update the prompts library in your "LibreChat" project, follow these steps:
 
-1. Navigate to the root folder of your "LibreChat" project.
+1. Navigate to the `/prompts/General-Library` folder of your "LibreChat" project.
 2. Pull the latest changes from the prompts library repository by running the following command:
 
    ```shell
-   git submodule update --remote prompts/General-Library
+   git pull
    ```
-
-   This will pull the latest changes from the prompts library repository into your "LibreChat" project.
 
 ## Contributing
 
