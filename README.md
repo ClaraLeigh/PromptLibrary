@@ -30,12 +30,6 @@ To update the prompts library in your "LibreChat" project, follow these steps:
 
    This will pull the latest changes from the prompts library repository into your "LibreChat" project.
 
-## Usage
-
-Once you have included the prompts library as a submodule in your "LibreChat" project, you can access the prompts from the `/prompts/General-Library` folder. Incorporate the prompts into the ChatGPT functionality of LibreChat according to your implementation.
-
-Please note that this prompts library not only includes prompts from [AwesomePrompts](https://github.com/f/awesome-chatgpt-prompts), but also from other sources, making it a comprehensive collection of GPT prompts for LibreChat.
-
 ## Contributing
 
 We welcome contributions to the GPT Prompts Library for LibreChat! If you have new prompts or want to improve the existing ones, please follow these steps:
@@ -71,17 +65,4 @@ If you are the author of a prompt and would like it removed from this library, p
 
 ### License
 
-This GPT Prompts Library for LibreChat is licensed under the [Creative Commons - CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.he Terms of the service you are using. By using anything included in this repo, you are taking full responsibly for your actions. The author is also not responsible for the inclusion of prompts from other sources, and will remove them upon request.
-
-### Removal of Prompts
-
-If you are the author of a prompt and would like it removed from this library, please follow these steps:
-
-1. Open an issue in this repository.
-2. Provide the name of the prompt and the reason for removal.
-3. Include a link to the original source of the prompt and any relevant licensing.
-4. The prompt will be removed from the library upon review.
-
-### License
-
-This GPT Prompts Library for LibreChat is licensed under the [Creative Commons - CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+This Prompts Library for LibreChat is licensed under the [Creative Commons - CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license. The Terms of the service you are using. By using anything included in this repo, you are taking full responsibly for your actions. The author is also not responsible for the inclusion of prompts from other sources, and will remove them upon request.
