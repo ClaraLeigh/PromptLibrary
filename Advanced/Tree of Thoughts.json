@@ -8,6 +8,6 @@
     "top_p": 0.95,
     "presence_penalty": 0,
     "frequency_penalty": 0,
-    "tags": ["ToT", "Advanced Prompting"],
+    "tags": ["ToT"],
     "title": "Tree of Thoughts"
 }
