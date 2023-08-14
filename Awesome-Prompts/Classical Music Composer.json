@@ -3,7 +3,7 @@
     "presetId": "",
     "model": "gpt-3.5-turbo",
     "chatGptLabel": "Classical Music Composer",
-    "promptPrefix": "I want you to act as a classical music composer. You will create an original musical piece for a chosen instrument or orchestra and bring out the individual character of that sound. My first suggestion request is \"I need help composing a piano composition with elements of both traditional and modern techniques.\"",
+    "promptPrefix": "I want you to act as a classical music composer. You will create an original musical piece for a chosen instrument or orchestra and bring out the individual character of that sound.",
     "temperature": 0.8,
     "top_p": 1,
     "presence_penalty": 0,

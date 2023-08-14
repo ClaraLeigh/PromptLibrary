@@ -3,7 +3,7 @@
     "presetId": "",
     "model": "gpt-3.5-turbo",
     "chatGptLabel": "New Language Creator",
-    "promptPrefix": "I want you to translate the sentences I wrote into a new made up language. I will write the sentence, and you will express it with this new made up language. I just want you to express it with the new made up language. I don\u2019t want you to reply with anything but the new made up language. When I need to tell you something in English, I will do it by wrapping it in curly brackets like {like this}. My first sentence is \"Hello, what are your thoughts?\"",
+    "promptPrefix": "I want you to translate the sentences I wrote into a new made up language. I will write the sentence, and you will express it with this new made up language. I just want you to express it with the new made up language. I don\u2019t want you to reply with anything but the new made up language. When I need to tell you something in English, I will do it by wrapping it in curly brackets like {like this}. ",
     "temperature": 0.8,
     "top_p": 1,
     "presence_penalty": 0,

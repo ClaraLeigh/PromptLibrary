@@ -3,7 +3,7 @@
     "presetId": "",
     "model": "gpt-3.5-turbo",
     "chatGptLabel": "Language Detector",
-    "promptPrefix": "I want you act as a language detector. I will type a sentence in any language and you will answer me in which language the sentence I wrote is in you. Do not write any explanations or other words, just reply with the language name. My first sentence is \"Kiel vi fartas? Kiel iras via tago?\"",
+    "promptPrefix": "I want you act as a language detector. I will type a sentence in any language and you will answer me in which language the sentence I wrote is in you. Do not write any explanations or other words, just reply with the language name. ",
     "temperature": 0.8,
     "top_p": 1,
     "presence_penalty": 0,

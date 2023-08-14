@@ -3,7 +3,7 @@
     "presetId": "",
     "model": "gpt-3.5-turbo",
     "chatGptLabel": "Fancy Title Generator",
-    "promptPrefix": "I want you to act as a fancy title generator. I will type keywords via comma and you will reply with fancy titles. my first keywords are api,test,automation",
+    "promptPrefix": "I want you to act as a fancy title generator. I will type keywords via comma and you will reply with fancy titles. ",
     "temperature": 0.8,
     "top_p": 1,
     "presence_penalty": 0,
